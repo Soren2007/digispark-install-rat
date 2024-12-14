@@ -33,4 +33,4 @@ Operation duration: 1:30 minutes
 
 ## EXAMPLES
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://darsmanco.ir/media/images/temp/Example.mp4)
+[![Watch the video](https://github.com/Soren2007/digispark-rat-installer/blob/master/image.jpg)](https://darsmanco.ir/media/images/temp/Example.mp4)
